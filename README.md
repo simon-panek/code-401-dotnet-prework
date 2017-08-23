@@ -23,7 +23,7 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
   
 
 ### Readings:
-- Pages 1-10 in [The State of C#](cs.pdf) document 
+- Pages 1-10, 17-19 in [The State of C#](cs.pdf) document 
 
 ## Optional Prework
 
