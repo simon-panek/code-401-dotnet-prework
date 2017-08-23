@@ -29,7 +29,7 @@ have  a Windows Virtual Machine. [download Windows 10 here](https://www.microsof
 ## Optional Prework
 
 ### Tutorials
-[Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners)
+[Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 
 ### Readings
 
