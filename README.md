@@ -29,7 +29,7 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
 
 ### Tutorials
 1. [Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
-1. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
+1. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ### Readings
 
