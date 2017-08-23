@@ -3,6 +3,11 @@ Pre-work assignments for Code Fellows Code 401: Advanced Software Development wi
 
 ## Required Prework
 
+### OS:
+1. Windows 10 64 bit 
+2. If you are not on a Window's machine, you will need to
+have  a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
+
 ### Tools:
 1. Setup your computer with Terminal, Git, GitHub, and Slack
 
@@ -18,7 +23,7 @@ Pre-work assignments for Code Fellows Code 401: Advanced Software Development wi
       - Data Storage and Processing
   - [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-### Readings
+### Readings: 
 - Pages 1-10 in the cs.pdf document located in this directory
 
 ## Optional Prework
