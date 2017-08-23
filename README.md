@@ -5,32 +5,36 @@ Pre-work assignments for Code Fellows Code 401: Advanced Software Development wi
 
 ### OS:
 1. Windows 10 64 bit 
-2. If you are not on a Window's machine, you will need to
-have  a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
+2. If you are not on a Window's machine, you will need to dual-boot or
+have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
 
-### Tools:
-1. Setup your computer with Terminal, Git, GitHub, and Slack
+### Computer setup:
 
-  - [Download Slack](https://slack.com/downloads/windows)
-
-
-2. Install .Net Core SDK and Visual Studio 2017 Community
+1. Install .Net Core SDK and Visual Studio 2017 Community
 
   - [Install Instructions](https://www.microsoft.com/net/core#windowscmd)
     - Required Visual Studio packages
       - .Net Desktop Development
       - ASP.NET and Web Development
       - Data Storage and Processing
-  - [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-### Readings: 
-- Pages 1-10 in the cs.pdf document located in this directory
+1.Setup version control: 
+  1. Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
+  1. Setup an account on [GitHub](github.com) with a recent profile picture
+  1. Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
+1. Download and [install the Slack desktop app](https://slack.com/downloads/)
+  
+
+### Readings:
+- Pages 1-10 in [The State of C#](cs.pdf) document 
 
 ## Optional Prework
 
 ### Tutorials
-[Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+1. [Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+1. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
 
 ### Readings
 
-[.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
+1. [.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
+1. Be familiar with the [git workflow](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow) in Visual Studio
