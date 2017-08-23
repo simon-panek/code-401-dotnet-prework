@@ -10,15 +10,12 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
 
 ### Computer setup:
 
-1. Install .Net Core SDK and Visual Studio 2017 Community
-
-  - [Install Instructions](https://www.microsoft.com/net/core#windowscmd)
+1. Install .Net Core SDK and Visual Studio 2017 Community with these [Installation Instructions](https://www.microsoft.com/net/core#windowscmd)
     - Required Visual Studio packages
       - .Net Desktop Development
       - ASP.NET and Web Development
       - Data Storage and Processing
-
-1.Setup version control: 
+1. Setup version control: 
   1. Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
   1. Setup an account on [GitHub](github.com) with a recent profile picture
   1. Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
