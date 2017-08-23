@@ -1,4 +1,4 @@
-# code-401-dotnet-prework
+# Code 401: ASP.NET Core Prework
 Pre-work assignments for Code Fellows Code 401: Advanced Software Development with ASP.NET Core MVC
 
 ## Required Prework
