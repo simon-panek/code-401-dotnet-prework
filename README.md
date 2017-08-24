@@ -15,6 +15,7 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
       - .Net Desktop Development
       - ASP.NET and Web Development
       - Data Storage and Processing
+      - .NET Core cross-platform development (located at the bottom)
 1. Setup version control: 
     1. Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
     1. Setup an account on [GitHub](github.com) with a recent profile picture
