@@ -24,7 +24,8 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
   
 
 ### Readings:
-- Pages 1-10, 17-19 in [The State of C#](cs.pdf) document 
+1.  Pages 1-10, 17-19 in [The State of C#](cs.pdf) document 
+1. [.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
 
 ## Optional Prework
 
@@ -34,5 +35,5 @@ have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft
 
 ### Readings
 
-1. [.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
+
 1. Be familiar with the [git workflow](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow) in Visual Studio
