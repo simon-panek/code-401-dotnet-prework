@@ -10,7 +10,7 @@ Pre-work assignments for Code Fellows Code 401: Advanced Software Development wi
    - (Release Date: Sept. 25, 2017) (optional but strongly recommended)
 
 - *It is recommended obtaining a [Seattle Public Library](https://seattle.bibliocommons.com/search?where=catalog&term=c%23+6.0+in+a+nutshell&t=smart&q=c%23+6.0+in+a+nutshell&search_category=keyword&commit=search) card for free through their e-book environment and purchasing the C# 7.0 in a nutshell book once released.
-These books are used as a reference for both in the class and after you graduate and are in your first develper position.*
+These books are used as a reference for both in the class and after you graduate and are in your first develper position. **You only need one of these two books***
 
 ### OS:
 1. Windows 10 64 bit 
