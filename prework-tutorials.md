@@ -1,15 +1,13 @@
 # Prework - Tutorials
 
 ## Tasks
-Complete the tutorials below. These are designed to introduce you to C# and .NET. We will be using Visual Studio in class, so pay attention to 
-the layout and structure of the IDE. 
+Complete the tutorials below. These are designed to introduce you to C# and .NET. We will be using Visual Studio in class, so pay attention to the layout and structure of the IDE. <br /> <br />
 Start with the first tutorial listed, and work your way down the list. The ETA of each tutorial is listed next to each listing. 
 Pay attention to what you are expected to turn in for each of the tutorials. 
-<br />
+<br /> <br />
 Challenge yourself. If the tutorial introduces a topic that you are not familiar with and you still have questions about the topic, 
 ***pause and research***. This course encourages and relies on self-research. You will learn best with what you discover on your own. 
-.NET Core is a new technology, and C# is consistantly changing with new updates. It is extremely important that you know and understand how learn from self-research
-and know how to apply that to your coding practices. 
+.NET Core is a new technology, and C# is consistantly changing with new updates. It is extremely important that you know and understand how learn from self-research and know how to apply that to your coding practices. 
 
 ### Microsoft Virtual Academy (ETA: ~4 Hours)
 Follow along in the first 12 videos of the Microsoft Virtual Academy C# Video for Absolute Beginners. 
@@ -29,9 +27,8 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	12. Working with Strings (~23 min)
 
 #### Submitting Your Work
-- Capture a screensot of all your assessments for each of the videos above. Consolidate them into a folder and submit it into the Canvas assignment designated
-for the MVA Tutorial prework.
-
+- Capture a screensot of all your assessments for each of the videos above. Consolidate them into a folder and submit it into the Canvas assignment designated for the MVA Tutorial prework.
+ <br /> <br />
 
 ### .NET in the Browser (~90 min)
 
