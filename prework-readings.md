@@ -11,6 +11,6 @@ how it has evolved, and a brief introduction to the brand new .NET Core. We will
 
 ## Submitting Your Work
 There will be a discussion assignment on Canvas focusing on the history and evolution of C# and the .NET Framework.
-You are to post in that discussion assignment with your thoughts and reflections about these readings.
+You are to post in that discussion assignment with your thoughts and reflections about these readings. <br /><br />
 Responses should be **at least** 3-5 sentences for each article read (total 3 paragraphs).
 Replies to others' comments are not mandatory but appreciated.
