@@ -5,9 +5,8 @@
 This is the mandatory pre-work for Code 401: ASP.NET Core that counts as 5 full coding assignments (effectively a week's worth of work).
 When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit. <br />
 
-You can find the required assignments towards to bottom under the "Active Assignments" section. <br />
-
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it.
+The prework should take you approx 8-10 hours to complete. <br />
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
 
@@ -48,7 +47,6 @@ Work through the assignments and readings listed below. Learn and research the l
 this is a brand new language, and it is important for you to become familiar with it and really understand the differences between C# and 
 every other language out there. Learn and determine why one would choose C# for a project over another.   
 
-Total ETA to complete the prework is ~8 hours.
 You do not need to do a lot of work every day.
 Spread it out evenly to do a bit every day before the first day of class.
 Do not let a day go by without spending your time practicing.
