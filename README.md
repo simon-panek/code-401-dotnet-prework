@@ -1,48 +1,60 @@
-# Code 401: ASP.NET Core Prework
-Pre-work assignments for Code Fellows Code 401: Advanced Software Development with ASP.NET Core MVC
+# Code 401: Advanced Software Development in ASP.NET Core
 
-## Required Prework
+## Pre-work
 
-### Referece Materials
+This is the mandatory pre-work for Code 401: ASP.NET Core that counts as 5 full coding assignments (effectively a week's worth of work).
+When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework 
+and claim credit.
 
-1. C# 6.0 in a Nutshell (Free ebook through [Seattle Public Library](https://seattle.bibliocommons.com/search?where=catalog&term=c%23+6.0+in+a+nutshell&t=smart&q=c%23+6.0+in+a+nutshell&search_category=keyword&commit=search))
-1. [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
-   - (Release Date: Sept. 25, 2017) (optional but strongly recommended)
-
-- *It is recommended obtaining a [Seattle Public Library](https://seattle.bibliocommons.com/search?where=catalog&term=c%23+6.0+in+a+nutshell&t=smart&q=c%23+6.0+in+a+nutshell&search_category=keyword&commit=search) card for free through their e-book environment and purchasing the C# 7.0 in a nutshell book once released.
-These books are used as a reference for both in the class and after you graduate and are in your first develper position. **You only need one of these two books***
-
-### OS:
-1. Windows 10 64 bit 
-2. If you are not on a Window's machine, you will need to dual-boot or
-have a Windows Virtual Machine. [download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
-
-### Computer setup:
-
-1. Install .Net Core SDK and Visual Studio 2017 Community with these [Installation Instructions](https://www.microsoft.com/net/core#windowscmd)
-    - Required Visual Studio packages
-      - .Net Desktop Development
-      - ASP.NET and Web Development
-      - Data Storage and Processing
-      - .NET Core cross-platform development (located at the bottom)
-1. Setup version control: 
-    1. Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
-    1. Setup an account on [GitHub](github.com) with a recent profile picture
-    1. Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
-1. Download and [install the Slack desktop app](https://slack.com/downloads/)
-  
-
-### Readings:
-1.  Pages 1-10, 17-19 in [The State of C#](cs.pdf) document 
-1. [.Net Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
-
-## Optional Prework
-
-### Tutorials
-1. [Microsoft Virtual Academy C# Fundamentals videos 1-12 (with assessments)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
-1. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-
-### Readings
+Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it.
+Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
 
-1. Be familiar with the [git workflow](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow) in Visual Studio
+### Set Up
+
+	1. A Windows 10 64 bit OS is required. If you are on a MAC, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
+		- MAC Users - It is recommended that you allocate approx. 80 GBs of memory. This should cover the Windows 10 OS, Visual Studio 2017 (with workloads), Databases, and assignments. 
+		- Make sure you either have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed **OR** The Windows subsystem for Linux. 
+			§ The Fall Creator's Update includes the Windows Subsystem for Linux. 
+		 
+	2. Setup your Visual Studio 2017 Community and install .NET Core 2.0 SDK
+		- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
+		- [Installation Instructions for .NET Core SDK and VS2017 Community](https://www.microsoft.com/net/core#windowscmd)
+		    - Required Visual Studio packages
+		      - .Net Desktop Development
+		      - ASP.NET and Web Development
+		      - Data Storage and Processing
+		      - .NET Core cross-platform development
+		- **Optional** - Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
+			- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
+		- **Optional** - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+	
+	3. Install Slack & Git
+		- [Download Slack](https://slack.com/downloads/osx)
+		- Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
+		- Setup an account on [GitHub](github.com) with a recent profile picture
+
+	4. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+### Reference Materials:
+		- [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
+			- This book will be used both in class, and after graduation for reference on the most up to date C# features. Use this book to obtain guidance on C# terminology and how to use specific components of the language. 
+		- **Optional** - Obtain a [Seattle Public Library](https://www.spl.org/) card for free. You will have access to their e-book environment as well as free access to many C# and .NET books. 
+
+### Active Assignments
+Having a level of comfort with the basic skills and tools you’ll be using every day is vital to your success.
+Work through the assignments and readings listed below. Learn and research the language and its potential. For many of you, 
+this is a brand new language, and it is important for you to become familiar with it and really understand the differences between C# and 
+every other language out there. Learn and determine why one would choose C# for a project over another.   
+
+Total ETA to complete the prework is ~8 hours.
+You do not need to do a lot of work every day.
+Spread it out evenly to do a bit every day before the first day of class.
+Do not let a day go by without spending your time practicing.
+
+- [Prework - Tutorials](./prework-tutorials.md)
+- [Prework - Readings](./prework-readings.md) 
+- [Prework - Frontend Review](./prework-frontend.md)
+- [Prework - Mindset](./prework-mindset.md) 
+
+
