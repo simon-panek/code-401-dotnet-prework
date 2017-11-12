@@ -3,8 +3,9 @@
 ## Pre-work
 
 This is the mandatory pre-work for Code 401: ASP.NET Core that counts as 5 full coding assignments (effectively a week's worth of work).
-When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework 
-and claim credit.
+When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit. <br />
+
+You can find the required assignments towards to bottom under the "Active Assignments" section. <br />
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it.
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
