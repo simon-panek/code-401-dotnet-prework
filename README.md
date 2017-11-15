@@ -55,8 +55,6 @@ Do not let a day go by without spending your time practicing.
 - [Prework - Readings](./prework-readings.md) 
 - [Prework - Frontend Review](./prework-frontend.md)
 - [Prework - Mindset](./prework-mindset.md) 
-
-Complete all the required prework? Want some extra practice? Start working on the stretch goal assignment: <br />
-- [Prework - Stretch Goal Assignment](./prework-stretch.md)
+- [Prework - Coding Assignment](./prework-stretch.md)
 
 
