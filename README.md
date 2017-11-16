@@ -55,6 +55,6 @@ Do not let a day go by without spending your time practicing.
 - [Prework - Readings](./prework-readings.md) 
 - [Prework - Frontend Review](./prework-frontend.md)
 - [Prework - Mindset](./prework-mindset.md) 
-- [Prework - Coding Assignment](./prework-stretch.md)
+- [Prework - Coding Assignment](./prework-code.md)
 
 
