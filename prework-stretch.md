@@ -1,8 +1,7 @@
 # Prework
 
 ## Tasks
-If you have completed all the other readings and tutorials, keep practicing your skills by 
-creating an application in Visual Studio as a Console Application.
+Practicing your skills by creating an application in Visual Studio as a Console Application.
 
 ## The Assignment
 Create a Calculator. Use everything that you have learned from the prework. 
