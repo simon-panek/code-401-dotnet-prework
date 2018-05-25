@@ -19,7 +19,7 @@ Allow yourself more time than you think you will need so that you can take break
 		 
 2. Setup your Visual Studio 2017 Community and install .NET Core 2.0 SDK
 	- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
-	- [Installation Instructions for .NET Core SDK and VS2017 Community](https://www.microsoft.com/net/core#windowscmd)
+	- [Installation Instructions for .NET Core 2.1 RC SDK and VS2017 Community](https://www.microsoft.com/net/core#windowscmd)
 	   - Required Visual Studio packages
 	     - .Net Desktop Development
 	     - ASP.NET and Web Development
