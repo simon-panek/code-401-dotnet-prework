@@ -20,6 +20,8 @@ Another great resource for all of the above is [FreeCodeCamp](http://www.freecod
 Once you sign up for an account there, you should be able to work your way all the way through the Advanced Algorithm Scripting section of work.
 It does take time though, so pace yourself over several days/weeks.
 
+### Tutorials
+1. [HTML & CSS Is Hard](https://internetingishard.com/html-and-css/)
 
 ## Submitting Your Work
 1. Nothing is due for this portion of the prework. You are expected to know and understand how to use front end technologies.

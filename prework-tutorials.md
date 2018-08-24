@@ -15,7 +15,7 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 1. [Microsoft Virtual Academy C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 	1. Course Introduction (~13 min)
 	2. Creating Your First C# Program (~16 min) (Azure exercises not required)
-	3. Undestanding Your Frist C# Program (~17 min)
+	3. Undestanding Your First C# Program (~17 min)
 	4. Working with Code Files, Projects, and Solutions (~11 min)
 	5. Understanding Data Types and Variables (~28 min)
 	6. The if Decision Statement (~23 min)
@@ -26,9 +26,6 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	11. While Iteration Statement (~18 min)
 	12. Working with Strings (~23 min)
 
-#### Submitting Your Work
-- Capture a screensot of all your assessments for each of the videos above. Consolidate them into a folder and submit it into the Canvas assignment designated for the MVA Tutorial prework.
- <br /> <br />
 
 ### .NET in the Browser (~90 min)
 
@@ -54,6 +51,6 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	4. Work with the for loop
 	5. Combining branches and loops
 	
+
 #### Submitting Your Work
-Provide a screenshot of the right side of your code and the output window with your running result for each of the above sections. <br />
-Consolidate them into a folder and submit it into the Canvas assignment designated for the .Net in the Browser prework.
+ - Complete the quiz in canvas to confirm your understanding of the materials from the MVA and .NET in the browser tutorials.
