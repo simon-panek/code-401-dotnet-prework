@@ -2,15 +2,15 @@
 
 There will be a total of 4 code challenges that you will need to complete as a part of your prework. 
 
-1. Calculator
-2. Coding Challenges
+1. [Calculator](calculator.md)
+2. [Coding Challenges](code-challenges.md)
 
 ## Tasks
 Practice your skills by creating an application for each challenge in Visual Studio as a Console Application.
 
 
 ## Git Workflow 
-Need help with the git workflow? Review the documentation [HERE]()
+Need help with the git workflow? Review the documentation [HERE](vs-git-workflow.md)
 
 
 ## Submitting Your Work

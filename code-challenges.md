@@ -1,10 +1,10 @@
 # Code Challenges 
 For each of the challenges below, create a new console application. Each of your challenges should be done in the `Program.cs` 
-file. Utulize the `Main()` method, and create external methods as appropriate. 
+file. Utilize the `Main()` method, and create external methods as appropriate. 
 
-Practice using your git workflow during the construction of this project. Refer to the git workflow doc as a reference. 
+Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
 
-## Problem 1:
+## Problem 1: Array Max Result
 
 #### Problem Statement
 Given an array select the number that will give you the maximum result
@@ -22,8 +22,17 @@ An array of integers
 #### Sample Output
 6
 
+#### Readme
+Your readme should contain basic information outlining the requirements for the challenge
+1. Name of Challenge
+2. Instructions of Challenge
+3. Screen capture of successful output. 
 
-## Problem 2:
+
+
+<hr />
+
+## Problem 2: Leap Year Calculator
 
 #### Problem Statement
 Given a year, report if it is a leap year.
@@ -41,8 +50,15 @@ For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 
 
 Want to know more about Leap Year? Watch this 4 minute video [HERE](https://www.youtube.com/watch?v=xX96xng7sAE)
 
+#### Readme
+Your readme should contain basic information outlining the requirements for the challenge
+1. Name of Challenge
+2. Instructions of Challenge
+3. Screen capture of successful output. 
 
-## Problem 3:
+<hr />
+
+## Problem 3: Perfect Sequence
 
 #### Problem Statement
 Given a sequence. Return "Yes" if the sequence is considered a perfect sequence. Otherwise, return "No"
@@ -62,4 +78,10 @@ An array of integers (may not be sorted)
 Yes
 
 #### Explanation
-1*3*2 = 6 || 1+3+2 = 6
+1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
+
+#### Readme
+Your readme should contain basic information outlining the requirements for the challenge
+1. Name of Challenge
+2. Instructions of Challenge
+3. Screen capture of successful output. 

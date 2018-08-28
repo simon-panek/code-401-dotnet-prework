@@ -7,7 +7,7 @@ Pay attention to what you are expected to turn in for each of the tutorials.
 <br /> <br />
 Challenge yourself. If the tutorial introduces a topic that you are not familiar with and you still have questions about the topic, 
 ***pause and research***. This course encourages and relies on self-research. You will learn best with what you discover on your own. 
-.NET Core is a new technology, and C# is consistantly changing with new updates. It is extremely important that you know and understand how learn from self-research and know how to apply that to your coding practices. 
+.NET Core is a new technology, and C# is constantly changing with new updates. It is extremely important that you know and understand how learn from self-research and know how to apply that to your coding practices. 
 
 ### Microsoft Virtual Academy (ETA: ~4 Hours)
 Follow along in the first 12 videos of the Microsoft Virtual Academy C# Video for Absolute Beginners. 
@@ -15,7 +15,7 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 1. [Microsoft Virtual Academy C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 	1. Course Introduction (~13 min)
 	2. Creating Your First C# Program (~16 min) (Azure exercises not required)
-	3. Undestanding Your First C# Program (~17 min)
+	3. Understanding Your First C# Program (~17 min)
 	4. Working with Code Files, Projects, and Solutions (~11 min)
 	5. Understanding Data Types and Variables (~28 min)
 	6. The if Decision Statement (~23 min)
@@ -35,7 +35,7 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	3. Variables
 	4. String Interpolation
 	5. Methods
-	6. Collectons
+	6. Collections
 
 2. [Numbers in C#](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp) (~30 min)
 	1. Explore integer math
@@ -53,4 +53,5 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	
 
 #### Submitting Your Work
- - Complete the quiz in canvas to confirm your understanding of the materials from the MVA and .NET in the browser tutorials.
+Within Canvas, there will be a required quiz that will test your knowledge on the above content, as well as the technical readings from 
+The C# in a nutshell book. *You will only have one attempt on the quiz, but it will be unlimited time, so use 

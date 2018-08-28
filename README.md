@@ -39,7 +39,7 @@ Allow yourself more time than you think you will need so that you can take break
 ### Reference Materials:
 - [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
 	- This book will be used both in class, and after graduation for reference on the most up to date C# features. Use this book to obtain guidance on C# terminology and how to use specific components of the language. 
-- **Optional** - Obtain a [Seattle Public Library](https://www.spl.org/) card for free. You will have access to their e-book environment as well as free access to many C# and .NET books. (The class book is available on online at SPL)
+- **Optional** - Obtain a [Seattle Public Library](https://www.spl.org/) card for free. You will have access to their e-book environment as well as free access to many C# and .NET books. (The class book is available for free through SPL)
 
 ### Active Assignments
 Having a level of comfort with the basic skills and tools you’ll be using every day is vital to your success.
@@ -51,11 +51,21 @@ You do not need to do a lot of work every day.
 Spread it out evenly to do a bit every day before the first day of class.
 Do not let a day go by without spending your time practicing.
 
-- [Prework - Tutorials](./prework-tutorials.md)
+Below is the **suggested** order in which you complete the prework. Feel free to jump around, but be aware that some content in the earlier prework
+will help you complete some of the later tasks. 
+
+#### Required Prework:
 - [Prework - Readings](./prework-readings.md) 
-- [Prework - Frontend Review](./prework-frontend.md)
+- [Prework - Tutorials](./prework-tutorials.md)
+- [Prework - Lab Assignment](./prework-code.md)
+- [Prework - Data Structures & Algorithms](./code-challenges.md)
+- [Prework - Career Coaching](./prework-career_coaching.md)
 - [Prework - Mindset](./prework-mindset.md) 
-- [Prework - Coding Assignment](./prework-code.md)
-- Quiz - Canvas
+
+#### Optional Prework:
+- [Prework - Front-end Review](./prework-frontend.md)
+- [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+
+
 
 
