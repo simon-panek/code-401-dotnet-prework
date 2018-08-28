@@ -55,17 +55,20 @@ Below is the **suggested** order in which you complete the prework. Feel free to
 will help you complete some of the later tasks. 
 
 #### Required Prework:
-- [Prework - Readings](./prework-readings.md) 
-- [Prework - Tutorials](./prework-tutorials.md)
-- [Prework - Lab Assignment](./prework-code.md)
-- [Prework - Data Structures & Algorithms](./code-challenges.md)
-- [Prework - Career Coaching](./prework-career_coaching.md)
-- [Prework - Mindset](./prework-mindset.md) 
+- [Prework - Readings](./prework-readings.md) (~2.5 hours)
+- [Prework - Tutorials](./prework-tutorials.md) (~5 1/2 hours)
+- [Prework - Lab Assignment](./calculator.md) (~2.5 hours)
+- [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
+- [Prework - Mindset](./prework-mindset.md)  (~90 min)
 
 #### Optional Prework:
-- [Prework - Front-end Review](./prework-frontend.md)
-- [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+- [Prework - Front-end Review](./prework-frontend.md) (~5 hours)
+- [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) (10+ hours)
 
+
+### Additional Prework
+Within Canvas, there is also a section for Career Coaching. Please review the posted assignments and their due dates, and be 
+sure to complete them before the posted due dates. 
 
 
 

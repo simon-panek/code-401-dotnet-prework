@@ -8,7 +8,7 @@ With that in mind, this is some prework to get us all on the same page about dea
 Note: If you've already watched/read/listened to the below before, just take some time and revisit them.
 We could all use mindset reminders. 
 
-- Read [Upgrade Your Tech Skills with Deliberate Practice](https://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
+- Read [Upgrade Your Tech Skills with Deliberate Practice](https://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (~10 min read)
 - Watch [Carol Dweck on the Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10.5 minutes)
 - Watch [Angela Lee Duckworth on Grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance#t-5024) (6 minutes)
 - Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) (17 minutes)
