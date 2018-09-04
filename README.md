@@ -55,11 +55,11 @@ Below is the **suggested** order in which you complete the prework. Feel free to
 will help you complete some of the later tasks. 
 
 #### Required Prework:
+- [Prework - Mindset](./prework-mindset.md)  (~90 min)
 - [Prework - Readings](./prework-readings.md) (~2.5 hours)
 - [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
 - [Prework - Lab Assignment](./calculator.md) (~2.5 hours)
 - [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
-- [Prework - Mindset](./prework-mindset.md)  (~90 min)
 
 #### Optional Prework:
 - [Prework - Front-end Review](./prework-frontend.md) (~5 hours)
