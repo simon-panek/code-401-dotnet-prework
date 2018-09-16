@@ -89,7 +89,7 @@ A section of your readme should contain basic information outlining the requirem
 
 <hr />
 
-## Problem 4: Perfect Sequence
+## Problem 4: Sum of Rows
 
 #### Problem Statement
 Given a matrix of integers. Return the sum of each row in a single dimensional array. 
