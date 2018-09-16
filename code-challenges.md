@@ -1,6 +1,6 @@
 # Code Challenges 
-For each of the challenges below, create a new console application. Each of your challenges should be done in the `Program.cs` 
-file. Utilize the `Main()` method, and create external methods as appropriate. 
+For each of the challenges below, create a new method in a single Console application. All of your code should live in the `Program.cs`
+file. Utilize the `Main()` method to call each challenge method, you may create additional external methods as appropriate. 
 
 Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
 
@@ -23,7 +23,7 @@ An array of integers
 6
 
 #### Readme
-Your readme should contain basic information outlining the requirements for the challenge
+A section of your readme should contain basic information outlining the requirements for the challenge
 1. Name of Challenge
 2. Instructions of Challenge
 3. Screen capture of successful output. 
@@ -51,7 +51,7 @@ For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 
 Want to know more about Leap Year? Watch this 4 minute video [HERE](https://www.youtube.com/watch?v=xX96xng7sAE)
 
 #### Readme
-Your readme should contain basic information outlining the requirements for the challenge
+A section of your readme should contain basic information outlining the requirements for the challenge
 1. Name of Challenge
 2. Instructions of Challenge
 3. Screen capture of successful output. 
@@ -81,10 +81,47 @@ Yes
 1 * 3 * 2 = 6 && 1 + 3 + 2 = 6
 
 #### Readme
-Your readme should contain basic information outlining the requirements for the challenge
+A section of your readme should contain basic information outlining the requirements for the challenge
 1. Name of Challenge
 2. Instructions of Challenge
 3. Screen capture of successful output. 
 
 
+<hr />
+
+## Problem 4: Perfect Sequence
+
+#### Problem Statement
+Given a matrix of integers. Return the sum of each row in a single dimensional array. 
+
+#### Input Format
+a multidimensional array with the dimensions of **m x n** (m = rows, n = columns).
+
+1. duplicate integers are possible.
+2. Negative numbers are possible
+3. both **m** and **n** can vary in length
+
+#### Sample Input
+```csharp
+int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
+```
+
+^^ The actual input would just be `myArray`, but the above code shows the pre-initialization before the method is called. 
+
+#### Sample Output
+
+{10,40,65} <-- an integer array
+
+#### HINTS
+- for loops are your best friend
+- GetLength() is a method you should look into
+	- i.e. in the array above myArray.GetLength(0) is equal to 3
+	- myArray.GetLength(1) is equal to 5
+	
+
+#### Readme
+A section of your readme should contain basic information outlining the requirements for the challenge
+1. Name of Challenge
+2. Instructions of Challenge
+3. Screen capture of successful output. 
 

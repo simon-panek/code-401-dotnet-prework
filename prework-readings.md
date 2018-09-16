@@ -16,10 +16,17 @@ You are to post in that discussion assignment with your thoughts and reflections
 Responses should be **at least** 3-5 sentences for each article read (total 3 paragraphs).
 Replies to others' comments are not mandatory but appreciated.
 
-### C# Language (~2 hours)
+### C# Language (~3 hours)
 1. C# 7.0 in a Nutshell:
 	- Ch. 1: Introducing C# and the .NET Framework
-	- Ch. 2:  C# Language Basics
+	- Ch. 2: C# Language Basics
+2. [C# Arrays](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
+	- Arrays as Objects
+	- Single-Dimensional Arrays
+	- Multidimensional Arrays
+	- Jagged Arrays
+	- Using foreach with Arrays
+	- Passing Arrays as Arguments
 
 
 #### Submitting Your Work
