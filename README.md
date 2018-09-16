@@ -12,8 +12,8 @@ Allow yourself more time than you think you will need so that you can take break
 
 ### Set Up
 
-1. A Windows 10 64 bit OS is required. If you are on a MAC, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
-	- MAC Users - It is recommended that you allocate approx. 80 GBs of memory. This should cover the Windows 10 OS, Visual Studio 2017 (with workloads), Databases, and assignments. 
+1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
+	- Mac Users - It is recommended that you allocate approx. 80 GBs of hard-drive space, and as much RAM as you can spare (4GB min). This should cover the Windows 10 OS, Visual Studio 2017 (with workloads), Databases, and assignments. 
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 		 
@@ -27,7 +27,7 @@ Allow yourself more time than you think you will need so that you can take break
 	     - .NET Core cross-platform development
 	- Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
-	- (optional) -> [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+	- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 	
 3. Install Slack & Git
 	- [Download Slack](https://slack.com/downloads/osx)
@@ -55,11 +55,11 @@ Below is the **suggested** order in which you complete the prework. Feel free to
 will help you complete some of the later tasks. 
 
 #### Required Prework:
-- [Prework - Readings](./prework-readings.md) (~3.5 hours)
-- [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
-- [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
 - [Prework - Mindset](./prework-mindset.md)  (~90 min)
-- QUIZ - Canvas Assignment (unlimited time, 2 attempts)
+- [Prework - Readings](./prework-readings.md) (~2.5 hours)
+- [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
+- [Prework - Lab Assignment](./calculator.md) (~2.5 hours)
+- [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
 
 #### Optional Prework:
 - [Prework - Front-end Review](./prework-frontend.md) (~5 hours)
@@ -67,7 +67,7 @@ will help you complete some of the later tasks.
 
 
 ### Additional Prework
-Within Canvas, there is also a section for Career Coaching. Please review the posted assignments and the due dates, and be 
+Within Canvas, there is also a section for Career Coaching. Please review the posted assignments and their due dates, and be 
 sure to complete them before the posted due dates. 
 
 

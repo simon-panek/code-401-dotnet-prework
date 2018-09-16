@@ -13,7 +13,7 @@ how it has evolved, and a brief introduction to the brand new .NET Core. We will
 #### Submitting Your Work
 There will be a discussion assignment on Canvas focusing on the history and evolution of C# and the .NET Framework.
 You are to post in that discussion assignment with your thoughts and reflections about these readings.
-Responses should be **at least** 3-5 sentences for each article read (total 3 paragraphs).
+Responses should be **at least** 3-5 sentences for each article read.
 Replies to others' comments are not mandatory but appreciated.
 
 ### C# Language (~3 hours)
@@ -36,6 +36,6 @@ the content of what you read into consideration as you work through the tutorial
 Once you gain access to the Canvas course, there will be a "Technical Quiz" that you will be required to complete. This will
 ask you basic questions about both the 2 chapters in the book and the tutorials that were covered in the later prework tasks. 
 
-This quiz is open note/open internet, but not open classmate. The quiz is *not timed* but you will only be given one attempt. Use your 
+This quiz is open note/open internet, but not open classmate. The quiz is *not timed* and you will only be given two attempts. Correct answers will not be visible between attempts Use your 
 resources during the quiz and take notes as you progress through both the chapters and tutorials. 
 
