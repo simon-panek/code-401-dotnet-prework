@@ -11,7 +11,6 @@ Allow yourself more time than you think you will need so that you can take break
 
 **Note: All prework is due the Friday before the class starts at 6pm**
 
-
 ### Set Up
 
 1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
