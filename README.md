@@ -9,7 +9,7 @@ Start on the pre-work as soon as you can and be sure to allow yourself plenty of
 The prework should take you approx 10-15 hours to complete. <br />
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
-*Note: All prework is due the Friday before the class starts at 6pm*
+**Note: All prework is due the Friday before the class starts at 6pm**
 
 
 ### Set Up
