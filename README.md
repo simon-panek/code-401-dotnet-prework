@@ -6,7 +6,7 @@ This is the mandatory pre-work for Code 401: ASP.NET Core that counts up to 5% o
 When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit. <br />
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. <br />
-The prework should take you approx 10-15 hours to complete. <br />
+The prework should take you approx 15-20 hours to complete. <br />
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
 **Note: All prework is due the Friday before the class starts at 6pm**
