@@ -27,7 +27,7 @@ Allow yourself more time than you think you will need so that you can take break
 	     - .NET Core cross-platform development
 	- Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
-	- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+	- (optional) [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 	
 3. Install Slack & Git
 	- [Download Slack](https://slack.com/downloads/osx)
@@ -60,6 +60,7 @@ will help you complete some of the later tasks.
 - [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
 - [Prework - Lab Assignment](./calculator.md) (~2.5 hours)
 - [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
+- QUIZ - Canvas Assignment (2 attempts, unlimited time)
 
 #### Optional Prework:
 - [Prework - Front-end Review](./prework-frontend.md) (~5 hours)
