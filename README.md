@@ -11,6 +11,9 @@ Allow yourself more time than you think you will need so that you can take break
 
 **Note: All prework is due the Friday before the class starts at 6pm**
 
+#### October 2018 Cohort
+If you are in the October 2018 cohort, please plan on being at the Seattle Codefellows campus at 2pm on October 1st. This time will be utulized to assist and validate software/computer requiremetns as well as an introductory to the new tools that will be used during the class. This meeting is **required**. Please contact your instructor if you have any questions or concerns. 
+
 ### Set Up
 
 1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
