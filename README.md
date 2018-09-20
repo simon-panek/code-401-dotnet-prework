@@ -62,7 +62,6 @@ will help you complete some of the later tasks.
 - [Prework - Mindset](./prework-mindset.md)  (~90 min)
 - [Prework - Readings](./prework-readings.md) (~2.5 hours)
 - [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
-- [Prework - Lab Assignment](./calculator.md) (~2.5 hours)
 - [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
 - QUIZ - Canvas Assignment (2 attempts, unlimited time)
 
