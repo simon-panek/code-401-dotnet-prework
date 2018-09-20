@@ -53,7 +53,5 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	
 
 #### Submitting Your Work
-Within Canvas, there will be a required quiz that will test your knowledge on the above content, as well as the technical readings from 
-The C# in a nutshell book. Use the above tutorials as well as resources to learn and understand the language. These tutorials will assist you in
-solving and completing the Lab and Coding challenges. *You will only have one attempt on the quiz, but it will be unlimited time. Take notes, and use your resources
-during the quiz*
+Use the above tutorials as well as resources to learn and understand the language. These tutorials will assist you in
+solving and completing the Coding challenges, and the lab on day one.
