@@ -21,9 +21,11 @@ If you are in the October 2018 cohort, please plan on being at the Seattle Codef
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 		 
-2. Setup your Visual Studio 2017 Community and install .NET Core 2.1 SDK
+2. Setup your Visual Studio 2017 Community Verson 15.8 and install .NET Core 2.1 SDK
 	- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
-	- [Installation Instructions for .NET Core 2.1 RC SDK and VS2017 Community](https://www.microsoft.com/net/core#windowscmd)
+	- [Installation Instructions for .NET Core 2.1 SDK and VS2017 Community](https://www.microsoft.com/net/core#windowscmd)
+	   - [.NET Core 2.1 SDK](https://www.microsoft.com/net/download) 
+	   - [Visual Studio Community Version 15.8](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes)
 	   - Required Visual Studio packages
 	     - .Net Desktop Development
 	     - ASP.NET and Web Development
