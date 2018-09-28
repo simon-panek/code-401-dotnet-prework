@@ -16,7 +16,7 @@ If you are in the October 2018 cohort, please plan on being at the Seattle Codef
 
 ### Set Up
 
-1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either duel boot or use a Virtual Machine to run windows to complete the assignments in this class. 
+1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either dual boot or use a Virtual Machine to run windows to complete the assignments in this class. 
 	- Mac Users - It is recommended that you allocate approx. 80 GBs of hard-drive space, and as much RAM as you can spare (4GB min). This should cover the Windows 10 OS, Visual Studio 2017 (with workloads), Databases, and assignments. 
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
