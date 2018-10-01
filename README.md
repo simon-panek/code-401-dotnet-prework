@@ -34,6 +34,7 @@ If you are in the October 2018 cohort, please plan on being at the Seattle Codef
 	- Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
 	- (optional) [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+	- (optional) [VSCode](https://code.visualstudio.com/)
 	
 3. Install Slack & Git
 	- [Download Slack](https://slack.com/downloads/osx)
