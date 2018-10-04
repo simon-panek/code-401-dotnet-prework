@@ -24,7 +24,7 @@ An array of integers, and the number chosen.
 [6,4,4,1,3] , 4
 
 #### Sample Output
-16
+8
 
 #### Readme
 A section of your readme should contain basic information outlining the requirements for the challenge
