@@ -11,8 +11,28 @@ Allow yourself more time than you think you will need so that you can take break
 
 **Note: All prework is due the Friday before the class starts at 6pm**
 
-#### October 2018 Cohort
-If you are in the October 2018 cohort, please plan on being at the Seattle Codefellows campus at 2pm on October 1st. This time will be utulized to assist and validate software/computer requiremetns as well as an introductory to the new tools that will be used during the class. This meeting is **required**. Please contact your instructor if you have any questions or concerns. 
+## Page Contents
+1. [Setup](###Setup)
+2. [Day One Checklist](### Day One Checklist)
+2. [Reference Materials](### Reference Materials)
+3. [Active Assignments](### Active Assignments)
+4. [Required Prework](#### Required Prework)
+5. [Optional Prework](#### Optional Prework)
+6. [Career Coaching](### Career Coaching Prework)
+
+### Day One Checklist
+
+The following should be properly installed and functioning before the first day of class: 
+
+- [] Working ***reliable*** computer 
+- [] Windows 10 OS on personal computer
+- [] Visual Studio (Most up to date version)
+- [] .NET Core 2.2 SDK (***DO NOT*** update this during the duration of the course)
+- [] GitHub Extension for Visual Studio
+- [] Day 1 Readings completed (See Canvas)
+- [] Slack
+
+All coding challenges, quiz, and lab work listed within the prework will be due the  ***Friday before class starts***. Please come to class with the above checklist ready to go. **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
 
 ### Set Up
 
@@ -21,7 +41,7 @@ If you are in the October 2018 cohort, please plan on being at the Seattle Codef
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 		 
-2. Setup your Visual Studio 2017 Community Verson 15.8 and install .NET Core 2.1 SDK
+2. Setup your Visual Studio 2017 Community Version and install .NET Core 2.2 SDK
 	- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
 	- Installation Instructions for .NET Core 2.1 SDK and VS2017 Community
 	   - [.NET Core 2.1 SDK](https://www.microsoft.com/net/download) (**Do NOT install or update 2.2 SDK**)
@@ -73,9 +93,8 @@ will help you complete some of the later tasks.
 - [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) (10+ hours)
 
 
-### Additional Prework
-Within Canvas, there is also a section for Career Coaching. Please review the posted assignments and their due dates, and be 
-sure to complete them before the posted due dates. 
+### Career Coaching Prework
+In addition to coding, Career Coaching is vital for developers to be successful. As developers, we should be taking our professional development just as seriously as our coding projects that we work on. The better we get at marketing and branding ourselves, the more natural finding new positions within our community will be. Within Canvas, there is a section for Career Coaching. Please review the posted assignments and their due dates, and be sure to complete them before the posted due dates. Career Coaching assignments will always treated like regular assignments and should be considered with just as much importance as lab and coding challenges. 
 
 
 
