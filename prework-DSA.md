@@ -30,5 +30,5 @@ Within this repo, have the challenge sln and project files, each challenge in a 
 1. Create a new GH repo
 2. Clone it to your local machine
 3. Create a new Visual Studio Console Application project
-3. Save each project into this new repository located on your local machine. 
+3. Save the project into this new repository located on your local machine. 
 5. Commit and push changes appropriately. 
