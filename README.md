@@ -15,13 +15,13 @@ Allow yourself more time than you think you will need so that you can take break
 
 The following should be properly installed and functioning before the first day of class: 
 
-- [] Working ***reliable*** computer 
-- [] Windows 10 OS on personal computer
-- [] Visual Studio (Most up to date version)
-- [] .NET Core 2.2 SDK (***DO NOT*** update this during the duration of the course)
-- [] GitHub Extension for Visual Studio
-- [] Day 1 Readings completed (See Canvas)
-- [] Slack
+- [ ] Working ***reliable*** computer 
+- [ ] Windows 10 OS on personal computer
+- [ ] Visual Studio (Most up to date version)
+- [ ] .NET Core 2.2 SDK (***DO NOT*** update this during the duration of the course)
+- [ ] GitHub Extension for Visual Studio
+- [ ] Day 1 Readings completed (See Canvas)
+- [ ] Slack
 
 All coding challenges, quiz, and lab work listed within the prework will be due the  ***Friday before class starts***. Please come to class with the above checklist ready to go. **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
 
