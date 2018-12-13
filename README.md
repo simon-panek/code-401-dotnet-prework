@@ -12,13 +12,13 @@ Allow yourself more time than you think you will need so that you can take break
 **Note: All prework is due the Friday before the class starts at 6pm**
 
 ## Page Contents
-1. [Setup](###Setup)
-2. [Day One Checklist](###Day One Checklist)
+1. [Setup](#Setup)
+2. [Day One Checklist](#Day One Checklist)
 2. [Reference Materials](###Reference Materials)
 3. [Active Assignments](###Active Assignments)
 4. [Required Prework](####Required Prework)
 5. [Optional Prework](####Optional Prework)
-6. [Career Coaching](###Career Coaching Prework)
+6. [Career Coaching](#Career Coaching Prework)
 
 ### Day One Checklist
 
