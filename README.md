@@ -18,7 +18,7 @@ Allow yourself more time than you think you will need so that you can take break
 3. [Active Assignments](###Active Assignments)
 4. [Required Prework](####Required Prework)
 5. [Optional Prework](####Optional Prework)
-6. [Career Coaching](#Career Coaching Prework)
+6. [Career Coaching](#toc_6)
 
 ### Day One Checklist
 
