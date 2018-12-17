@@ -109,6 +109,7 @@ a multidimensional array with the dimensions of **m x n** (m = rows, n = columns
 
 The user should specify the length and the width of the array within the console. To populate the numbers, you may randomly generate them, or have the user input one by one.
 
+***The method should take in the multidimensional array and return the single dimensional array with the sums***
 
 #### Sample Input
 ```csharp
