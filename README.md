@@ -11,29 +11,6 @@ Allow yourself more time than you think you will need so that you can take break
 
 **Note: All prework is due the Friday before the class starts at 6pm**
 
-## Page Contents
-1. [Setup](###Setup)
-2. [Day One Checklist](### Day One Checklist)
-2. [Reference Materials](### Reference Materials)
-3. [Active Assignments](### Active Assignments)
-4. [Required Prework](#### Required Prework)
-5. [Optional Prework](#### Optional Prework)
-6. [Career Coaching](### Career Coaching Prework)
-
-### Day One Checklist
-
-The following should be properly installed and functioning before the first day of class: 
-
-- [] Working ***reliable*** computer 
-- [] Windows 10 OS on personal computer
-- [] Visual Studio (Most up to date version)
-- [] .NET Core 2.2 SDK (***DO NOT*** update this during the duration of the course)
-- [] GitHub Extension for Visual Studio
-- [] Day 1 Readings completed (See Canvas)
-- [] Slack
-
-All coding challenges, quiz, and lab work listed within the prework will be due the  ***Friday before class starts***. Please come to class with the above checklist ready to go. **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
-
 ### Set Up
 
 1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either dual boot or use a Virtual Machine to run windows to complete the assignments in this class. 
@@ -62,6 +39,9 @@ All coding challenges, quiz, and lab work listed within the prework will be due 
 	- Setup an account on [GitHub](github.com) with a recent profile picture
 
 4. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+
+**We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
 
 ### Reference Materials:
 - [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
