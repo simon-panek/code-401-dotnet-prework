@@ -18,6 +18,8 @@ of the prework contains links and technical resources to learn and understand th
 
 ### Coding Challenges
 
+Utulize what you learned in the [Tutorials](prework-tutorials.md) prework and apply them to coding challenges. 
+
 [Coding Challenges here](code-challenges.md)
 
 
