@@ -1,8 +1,8 @@
 # Code Challenges 
 For each of the challenges below, create a new method in a single Console application. All of your code should live in the `Program.cs`
-file. Utilize the `Main()` method to call each challenge method, you may create additional external methods as appropriate. 
+file. Utilize the `Main()` method to call each challenge method, you may create additional external methods as appropriate.
 
-Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
+Each challenge should be it's own branch. Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
 
 ## Problem 1: Array Max Result
 
