@@ -24,7 +24,7 @@ of the prework contains links and technical resources to learn and understand th
 ## Submitting Your Work
 To submit your code challenges, create a new repository in your personal GitHub named `Prework-CodeChallenges`. 
 
-Within this repo, have the challenge sln and project files, each challenge in a separate method. 
+Within this repo, have the challenge sln, and project files. Please have each challenge as a separate method in the **Program.cs** file.
 
 ### Guidance
 1. Create a new GH repo
@@ -32,3 +32,5 @@ Within this repo, have the challenge sln and project files, each challenge in a 
 3. Create a new Visual Studio Console Application project
 3. Save the project into this new repository located on your local machine. 
 5. Commit and push changes appropriately. 
+6. Make a new branch for each challenge. 
+7. Create a PR for each challenge back to master.
