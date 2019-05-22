@@ -1,8 +1,8 @@
 # Code Challenges 
 For each of the challenges below, create a new method in a single Console application. All of your code should live in the `Program.cs`
-file. Utilize the `Main()` method to call each challenge method, you may create additional external methods as appropriate. 
+file. Utilize the `Main()` method to call each challenge method, you may create additional external methods as appropriate.
 
-Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
+Each challenge should be it's own branch. Practice using your git work flow during the construction of this project. Refer to the git work flow doc as a reference. 
 
 ## Problem 1: Array Max Result
 
@@ -67,7 +67,7 @@ A section of your readme should contain basic information outlining the requirem
 ## Problem 3: Perfect Sequence
 
 #### Problem Statement
-Given a sequence. Return "Yes" if the sequence is considered a perfect sequence. Otherwise, return "No"
+Given an array. Return "Yes" if the sequence is considered a perfect sequence. Otherwise, return "No"
 
 #### Perfect Sequences
 A perfect sequence is a sequence such that all of its elements are non-negative integers and the product of all of them is equal to their sum. 
