@@ -14,6 +14,9 @@ We could all use mindset reminders.
 - Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) (17 minutes)
 - Listen to [The Drs. Sarah on Impostor Syndrome - Pt 1](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-impostor-syndrome-part-i) (30 minutes)
 - Listen to [The Drs. Sarah on Impostor Syndrome - Pt 2](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-the-impostor-syndrome-part-ii) (25.5 minutes)
+- Read [How to think like a programmer -- lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+- Read [Pretend your time is worth $1000/hour](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+- Read [What I Wish I Knew Before I Learned to Code](https://medium.com/coding-in-simple-english/what-i-wish-i-knew-before-i-learned-to-code-8edcadbd2dcd)
 
 ## Submitting Your Work
 
