@@ -40,7 +40,9 @@ Allow yourself more time than you think you will need so that you can take break
 	- Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
 	- Setup an account on [GitHub](http://www.github.com) with a recent profile picture
 
-4. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+4. Need a refresher on git? 
+   - [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+   - [Git Tutorial](https://learngitbranching.js.org/)
 
 
 **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
@@ -51,21 +53,18 @@ Allow yourself more time than you think you will need so that you can take break
 
 ### Active Assignments
 Having a level of comfort with the basic skills and tools you’ll be using every day is vital to your success.
-Work through the assignments and readings listed below. Learn and research the language and its potential. For many of you, 
-this is a brand new language, and it is important for you to become familiar with it and really understand the differences between C# and 
-every other language out there. Learn and determine why one would choose C# for a project over another.   
+Work through the assignments and readings listed below. Learn and research the language and its potential. For many of you,
+this is a brand new language, and it is important for you to become familiar with it and really understand the differences between C# and every other language out there. Learn and determine why one would choose C# for a project over another.   
 
 You do not need to do a lot of work every day.
-Spread it out evenly to do a bit every day before the first day of class.
-Do not let a day go by without spending your time practicing.
+Spread it out evenly to do a bit every day before the first day of class. Do not let a day go by without spending your time practicing.
 
-Below is the **suggested** order in which you complete the prework. Feel free to jump around, but be aware that some content in the earlier prework
-will help you complete some of the later tasks. 
+Below is the **suggested** order in which you complete the prework. Feel free to jump around, but be aware that some content in the earlier prework will help you complete some of the later tasks. 
 
 #### Required Prework:
 - [Prework - Mindset](./prework-mindset.md)  (~90 min)
-- [Prework - Readings](./prework-readings.md) (~2.5 hours)
 - [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
+- [Prework - Readings](./prework-readings.md) (~2.5 hours)
 - [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
 - [Typing Practice](https://typing.io/lessons)
   - Sign up with the free account

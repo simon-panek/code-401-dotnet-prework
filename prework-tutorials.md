@@ -26,7 +26,6 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 
 
 ### .NET in the Browser (~90 min)
-
 1. [In Browser Tutorial](https://www.microsoft.com/net/learn/in-browser-tutorial/1) (~15 min)
 	1. Intro
 	2. Strings
