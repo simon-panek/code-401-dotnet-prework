@@ -30,7 +30,6 @@ Allow yourself more time than you think you will need so that you can take break
 	     - .Net Desktop Development
 	     - ASP.NET and Web Development
 	     - Data Storage and Processing
-	     - .NET Core cross-platform development
 	- Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
 	- (optional) [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
