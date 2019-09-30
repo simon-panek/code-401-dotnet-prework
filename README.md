@@ -67,6 +67,11 @@ will help you complete some of the later tasks.
 - [Prework - Readings](./prework-readings.md) (~2.5 hours)
 - [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
 - [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
+- [Typing Practice](https://typing.io/lessons)
+  - Sign up with the free account
+  - Go to lessons
+  - Select "C# ASP.net"
+  - Complete at leaset half of the lessons. Be mindful of your accuracy and speed. Try and improve each iteration. 
 - QUIZ - Canvas Assignment (2 attempts, unlimited time)
 
 #### Optional Prework:
