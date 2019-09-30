@@ -27,7 +27,7 @@ Replies to others' comments are not mandatory but appreciated.
 	- Jagged Arrays
 	- Using foreach with Arrays
 	- Passing Arrays as Arguments
-
+3. [Introduction to the C# Language and the .NET Framework](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
 
 #### Submitting Your Work
 Once you complete the readings from the "C# 7.0 in a Nutshell" book, continue onto the Lab Assignments but keep

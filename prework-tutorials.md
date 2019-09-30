@@ -13,18 +13,16 @@ Challenge yourself. If the tutorial introduces a topic that you are not familiar
 Follow along in the first 12 videos of the Microsoft Virtual Academy C# Video for Absolute Beginners. 
 Code along with Bob in Visual Studio, and take the assessments after every test.
 1. [Microsoft Virtual Academy C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
-	1. Course Introduction (~13 min)
-	2. Creating Your First C# Program (~16 min) (Azure exercises not required)
-	3. Understanding Your First C# Program (~17 min)
-	4. Working with Code Files, Projects, and Solutions (~11 min)
-	5. Understanding Data Types and Variables (~28 min)
-	6. The if Decision Statement (~23 min)
-	7. Operators, Expressions, and Statements (~15 min)
-	8. For Iteration Statement (~18 min)
-	9. Understanding Arrays (~17 min)
-	10. Defining and Calling Methods (~31 min)
-	11. While Iteration Statement (~18 min)
-	12. Working with Strings (~23 min)
+	1. Creating Your First C# Program (~16 min)
+	1. Understanding Your First C# Program (~17 min)
+	1. The if Decision Statement (~23 min)
+	1. Understanding Data Types and Variables (~28 min)
+	1. For Iteration Statement (~18 min)
+	1. Understanding Arrays (~17 min)
+	1. Defining and Calling Methods (~31 min)
+	1. While Iteration Statement (~18 min)
+    1. Working with Dates and Times (~10 min)
+	1. Working with Strings (~23 min)
 
 
 ### .NET in the Browser (~90 min)

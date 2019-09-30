@@ -3,26 +3,29 @@
 ## Pre-work
 
 This is the mandatory pre-work for Code 401: ASP.NET Core that counts up to 5% of your grade.
-When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit. <br />
+When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit.
 
-Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. <br />
-The prework should take you approx 15-20 hours to complete. <br />
+Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it.
+The prework should take you approx 15-20 hours to complete.
+
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
 **Note: All prework is due the Friday before the class starts at 6pm**
 
+
+
 ### Set Up
 
 1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either dual boot or use a Virtual Machine to run windows to complete the assignments in this class. 
-	- Mac Users - It is recommended that you allocate approx. 80 GBs of hard-drive space, and as much RAM as you can spare (4GB min). This should cover the Windows 10 OS, Visual Studio 2017 (with workloads), Databases, and assignments. 
+	- Mac Users - It is recommended that you allocate approx. 80 GBs of hard-drive space, and as much RAM as you can spare (4GB min). This should cover the Windows 10 OS, Visual Studio Community(with workloads), Databases, and assignments. 
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 		 
-2. Setup your Visual Studio 2017 Community Version and install .NET Core 2.2 SDK
+2. Setup your Visual Studio Community Version and install .NET Core 2.2 SDK
 	- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
-	- Installation Instructions for .NET Core 2.2 SDK and VS2017 Community
+	- Installation instructions for .NET Core 2.2 SDK and VS2019 Community
 	   - [.NET Core 2.2 SDK](https://www.microsoft.com/net/download)
-	   - [Visual Studio Community Version](https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes) 
+	   - [Visual Studio Community Version](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes) 
 	   - Required Visual Studio packages
 	     - .Net Desktop Development
 	     - ASP.NET and Web Development
@@ -36,7 +39,7 @@ Allow yourself more time than you think you will need so that you can take break
 3. Install Slack & Git
 	- [Download Slack](https://slack.com/downloads/osx)
 	- Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
-	- Setup an account on [GitHub](github.com) with a recent profile picture
+	- Setup an account on [GitHub](http://www.github.com) with a recent profile picture
 
 4. Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
@@ -44,9 +47,8 @@ Allow yourself more time than you think you will need so that you can take break
 **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
 
 ### Reference Materials:
-- [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
-	- This book will be used both in class, and after graduation for reference on the most up to date C# features. Use this book to obtain guidance on C# terminology and how to use specific components of the language. 
-- **Optional** - Obtain a [Seattle Public Library](https://www.spl.org/) card for free. You will have access to their e-book environment as well as free access to many C# and .NET books. (The class book is available for free through SPL)
+- Optional - [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
+	- This book is a great resource both in class, and after graduation for reference on the most up to date C# features. Use this book to obtain guidance on C# terminology and how to use specific components of the language.
 
 ### Active Assignments
 Having a level of comfort with the basic skills and tools you’ll be using every day is vital to your success.
