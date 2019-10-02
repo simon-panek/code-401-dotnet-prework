@@ -10,9 +10,6 @@ The prework should take you approx 15-20 hours to complete.
 
 Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
 
-**Note: All prework is due the Friday before the class starts at 6pm**
-
-
 
 ### Set Up
 
@@ -21,15 +18,15 @@ Allow yourself more time than you think you will need so that you can take break
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update) installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 		 
-2. Setup your Visual Studio Community Version and install .NET Core 2.2 SDK
+2. Setup your Visual Studio Community Version and install .NET Core SDK
 	- [Download Windows 10 here](https://www.microsoft.com/en-us/software-download/windows10)
-	- Installation instructions for .NET Core 2.2 SDK and VS2019 Community
-	   - [.NET Core 2.2 SDK](https://www.microsoft.com/net/download)
+	- Installation instructions for .NET Core 3.0 SDK and VS2019 Community. If you install the most up to date version if VS2019, .NET Core 3.0 is included.
 	   - [Visual Studio Community Version](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes) 
 	   - Required Visual Studio packages
 	     - .Net Desktop Development
 	     - ASP.NET and Web Development
-	     - Data Storage and Processing
+	     - Data Storage and Processing 
+	   - [.NET Core 3.0 SDK](https://www.microsoft.com/net/download)
 	- Add the [GitHub extension](https://visualstudio.github.com/) to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow)
 	- (optional) [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
