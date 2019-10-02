@@ -15,7 +15,8 @@ It is important that you become familiar with what .NET is and the underlayings 
 
 1. [What is .NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 1. [What is a .NET Hello World App?](https://www.youtube.com/watch?v=uKoqBCyFATw&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80&index=3)
-1. [Basic Debugging](https://www.youtube.com/watch?v=feWeInify18&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80&index=4)
+1. [Basic Debugging](https://www.youtube.com/watch?v=feWeInify18&list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80&index=4
+)
 1. [What is Managed Code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
 1. [What is the CLR](https://docs.microsoft.com/en-us/dotnet/standard/clr)
 
@@ -39,10 +40,4 @@ In addition to the framework and tooling, learn more about the language and how 
 #### Submitting Your Work
 Once you complete the readings, continue onto the lab assignments but keep
 the content of what you read into consideration as you work through the tutorials. 
-
-Once you gain access to the Canvas course, there will be a "Technical Quiz" that you will be required to complete. This will
-ask you basic questions about the readings and tutorials that were covered in the later prework tasks. 
-
-This quiz is open note/open internet, but not open classmate. The quiz is *not timed* and you will only be given two attempts. Correct answers will not be visible between attempts. Use your 
-resources during the quiz and take notes as you progress through the readings and tutorials. 
 
