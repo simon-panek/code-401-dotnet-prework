@@ -33,7 +33,7 @@ In addition to the framework and tooling, learn more about the language and how 
 	- Jagged Arrays
 	- Using foreach with Arrays
 	- Passing Arrays as Arguments
-1. ***Optional*** C# 7.0 in a Nutshell
+1. C# 7.0 in a Nutshell
    - Chapter 1: Introducing C# and the .NET Framework
    - Chapter 2: C# Language Basics
 
@@ -41,3 +41,4 @@ In addition to the framework and tooling, learn more about the language and how 
 Once you complete the readings, continue onto the lab assignments but keep
 the content of what you read into consideration as you work through the tutorials. 
 
+After completing the readings above, complete the ***technical quiz*** located in your Canvas. This quiz will be a maximum of 2 attempts, and will be untimed. 
