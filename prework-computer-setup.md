@@ -32,3 +32,8 @@ Below are the machine requirements for the class. Please read through them and c
 
 
 **We do not spend any time in class or lab time setting up personal machines**, If you require assistance to set up you machine, schedule a time before the start of class with your instructor. 
+
+
+## Submission Instructions
+To submit this assignment, please run the following commands in your powershell terminal to confirm your .net core SDK install `dotnet --version`. Record in Canvas the version that comes up. (Confirm that it is at least 3.0)
+
