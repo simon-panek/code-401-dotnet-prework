@@ -13,10 +13,10 @@ Allow yourself more time than you think you will need so that you can take break
 
 ### Set Up
 
-Refer to the [Computer Setup](./prework-computer-setup.md) instructions to confirm your machine is ready for day 1.
+Refer to the [Computer Setup](./prework-computer-setup.md){:target="_blank"}  instructions to confirm your machine is ready for day 1.
 
 ### Reference Materials:
-- [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell) 
+- [C# 7.0 in a Nutshell: The Definitive Reference](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=sr_1_1?ie=UTF8&qid=1504228723&sr=8-1&keywords=C%23+7.0+in+a+Nutshell){:target="_blank"}  
 	- This book is a great resource both in class, and after graduation for reference on the most up to date C# features. Use this book to obtain guidance on C# terminology and how to use specific components of the language.
 
 ### Active Assignments
@@ -30,11 +30,11 @@ Spread it out evenly to do a bit every day before the first day of class. Do not
 Below is the **suggested** order in which you complete the prework. Feel free to jump around, but be aware that some content in the earlier prework will help you complete some of the later tasks. 
 
 #### Required Prework:
-- [Prework - Mindset](./prework-mindset.md)  (~90 min)
-- [Prework - Tutorials](./prework-tutorials.md) (~5.5 hours)
-- [Prework - Readings](./prework-readings.md) (~2.5 hours)
-- [Prework - Data Structures & Algorithms](./prework-DSA.md)(~5 hours)
-- [Typing Practice](https://typing.io/lessons)
+- [Prework - Mindset](./prework-mindset.md){:target="_blank"}   (~90 min)
+- [Prework - Tutorials](./prework-tutorials.md){:target="_blank"}  (~5.5 hours)
+- [Prework - Readings](./prework-readings.md){:target="_blank"}  (~2.5 hours)
+- [Prework - Data Structures & Algorithms](./prework-DSA.md){:target="_blank"} (~5 hours)
+- [Typing Practice](https://typing.io/lessons){:target="_blank"} 
   - Sign up with the free account
   - Go to lessons
   - Select "C# ASP.net"
@@ -42,8 +42,8 @@ Below is the **suggested** order in which you complete the prework. Feel free to
 - QUIZ - Canvas Assignment (2 attempts, unlimited time)
 
 #### Optional Prework:
-- [Prework - Front-end Review](./prework-frontend.md) (~5 hours)
-- [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) (10+ hours)
+- [Prework - Front-end Review](./prework-frontend.md){:target="_blank"}  (~5 hours)
+- [Prework - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/){:target="_blank"}  (10+ hours)
 
 
 ### Career Coaching Prework

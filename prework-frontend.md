@@ -10,18 +10,18 @@ Spend the time between now and the start of class sharpening your HTML/CSS/JS sk
 
 ### Refresh HTML/CSS/JS
 
-If you are a complete beginner, then may I suggest an account with either [Treehouse](http://teamtreehouse.com/) or [CodeAcademy](http://codeacademy.com/).
+If you are a complete beginner, then may I suggest an account with either [Treehouse](http://teamtreehouse.com/){:target="_blank"}  or [CodeAcademy](http://codeacademy.com/){:target="_blank"} .
 Once you are signed up, either site has a number of quality tutorials that cover HTML, CSS, and Javascript. 
 Pick some, and work through them.
 Then pick the next in line and keep going.
 Spend some time each day working on this.
 
-Another great resource for all of the above is [FreeCodeCamp](http://www.freecodecamp.com).
+Another great resource for all of the above is [FreeCodeCamp](http://www.freecodecamp.com){:target="_blank"} .
 Once you sign up for an account there, you should be able to work your way all the way through the Advanced Algorithm Scripting section of work.
 It does take time though, so pace yourself over several days/weeks.
 
 ### Tutorials
-1. [HTML & CSS Is Hard](https://internetingishard.com/html-and-css/)
+1. [HTML & CSS Is Hard](https://internetingishard.com/html-and-css/){:target="_blank"} 
 
 ## Submitting Your Work
 1. Nothing is due for this portion of the prework. You are expected to know and understand how to use front end technologies.

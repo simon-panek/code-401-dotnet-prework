@@ -12,7 +12,7 @@ Challenge yourself. If the tutorial introduces a topic that you are not familiar
 ### Microsoft Virtual Academy (ETA: ~4 Hours)
 Follow along in the first 12 videos of the Microsoft Virtual Academy C# Video for Absolute Beginners. 
 Code along with Bob in Visual Studio, and take the assessments after every test.
-1. [Microsoft Virtual Academy C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+1. [Microsoft Virtual Academy C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169){:target="_blank"} 
 	1. Creating Your First C# Program (~16 min)
 	1. Understanding Your First C# Program (~17 min)
 	1. The if Decision Statement (~23 min)
@@ -26,7 +26,7 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 
 
 ### .NET in the Browser (~90 min)
-1. [In Browser Tutorial](https://www.microsoft.com/net/learn/in-browser-tutorial/1) (~15 min)
+1. [In Browser Tutorial](https://www.microsoft.com/net/learn/in-browser-tutorial/1){:target="_blank"}  (~15 min)
 	1. Intro
 	2. Strings
 	3. Variables
@@ -34,14 +34,14 @@ Code along with Bob in Visual Studio, and take the assessments after every test.
 	5. Methods
 	6. Collections
 
-2. [Numbers in C#](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp) (~30 min)
+2. [Numbers in C#](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp){:target="_blank"}  (~30 min)
 	1. Explore integer math
 	2. Explore order of operations
 	3. Explore integer precision and limits
 	4. Work with double type
 	5. Work with fixed point types
 
-3. [Branches and Loops](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/branches-and-loops)(~40 min)
+3. [Branches and Loops](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/branches-and-loops){:target="_blank"} (~40 min)
 	1. Make decisions using the if statement
 	2. make if and else work together
 	3. Use loops to repeat operations
