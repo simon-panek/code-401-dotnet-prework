@@ -38,7 +38,7 @@ In addition to the framework and tooling, learn more about the language and how 
    - Chapter 2: C# Language Basics
 
 #### Submitting Your Work
-Once you complete the readings, continue onto the lab assignments but keep
-the content of what you read into consideration as you work through the tutorials. 
 
-After completing the readings above, complete the ***technical quiz*** located in your Canvas. This quiz will be a maximum of 2 attempts, and will be untimed. 
+After completing the readings from above,  complete the canvas discussion assignment by reflecting on each of the sections from above categories (History of C#, Tooling, and C# Language). Come up with 5 points from the content above and provide 2-3 sentences per point to explain what you learned.
+
+In addition, use these readings as resources when completing the the ***technical quiz*** located in your canvcas course. This quiz will be a maximum of 2 attempts, and will be untimed. 
